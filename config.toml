@@ -1,0 +1,13 @@
+[db]
+username = '**********'
+password = '**********'
+host = 'localhost'
+port = 5432
+
+[s3]
+access_key = ''
+secret_access_key = ''
+
+[misc]
+log_path = 'log/'
+temp_path = 'tmp/'
